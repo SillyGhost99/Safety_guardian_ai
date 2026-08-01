@@ -49,7 +49,7 @@ The current design uses fixed thresholds (e.g. "stationary > 5 min → escalate"
 - Training: Python, scikit-learn / PyTorch, pandas
 - On-device inference: TensorFlow Lite (Android), Core ML (iOS)
 - Serving: FastAPI alongside existing backend
-- Experiment tracking: Weights & Biases / MLflow
+- Experiment tracking: Weights & Biases / MLflow.
 
 ## Notes
 
